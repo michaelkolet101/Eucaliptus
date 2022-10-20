@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Eucaliptus.iml" filepath="$PROJECT_DIR$/.idea/Eucaliptus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springs.iml" filepath="$PROJECT_DIR$/.idea/springs.iml" />
     </modules>
   </component>
 </project>
