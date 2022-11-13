@@ -1,6 +1,6 @@
 from tkinter import *
 import tkintermapview
-from menege_db import *
+from API.menege_db import *
 
 colors = ['white', '#13C0DF']
 fonts = [("Times", "27", "bold italic"), ("Helvetica", "15"), ("Helvetica", "13")]

@@ -1,0 +1,4 @@
+tk                                      
+tkintermapview           
+firebase_admin
+                
